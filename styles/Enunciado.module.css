@@ -1,8 +1,9 @@
 .enunciado {
     display: flex;
+    margin: 5px 0 10px 0;
 }
 
 .texto {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     font-weight: 700;
 }

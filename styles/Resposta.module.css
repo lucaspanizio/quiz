@@ -2,9 +2,9 @@
     display: flex;
     min-width: 500px; 
     width: 80%;
-    height: 100px;
+    height: 80px;
     margin: 10px;
-    perspective: 1000px;
+    /* perspective: 1000px; */
     cursor: pointer;
 }
 
@@ -59,23 +59,23 @@
 }
 
 .certa .valor, .errada .valor {
-    font-size: 1.5rem;
+    /* font-size: 1.5rem; */
 }
 
 .letra {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 40px;
-    width: 40px;
-    border-radius: 20px;
-    font-size: 1.3rem;
+    height: 30px;
+    width: 30px;
+    border-radius: 15px;
+    /* font-size: 1.3rem; */
     font-weight: 700;
     margin-right: 20px;
     color: #fff;
 }
 
 .valor {
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-weight: 700;
 }
